@@ -53,6 +53,10 @@ Value: Extracted data (with proper date formatting)
 
 Comments: Contextual information from source
 
+
+Local Hosting done on Streamlit cloud -
+https://hostingpdfextrac.streamlit.app
+
 **Acknowledgments**
 
 Built with Groq AI
