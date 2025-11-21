@@ -10,6 +10,7 @@ A Groq API key (get one from Groq Console)
 
 Install all required dependencies using:
 pip install pdfplumber openpyxl groq pandas jupyter
+pip install streamlit
 
 Individual Package Details:
 
@@ -22,6 +23,8 @@ groq-0.36.0+ -Interface with Groq AI API for text processing
 pandas-Latest -Data manipulation and cleaning
 
 jupyter-Latest -Run Jupyter notebooks
+
+streamlit-1.29.0 -For streamlit app
 
 Since I have run this code in Google Colab, I did the following to hide my GROQ_API_KEY- 
 
