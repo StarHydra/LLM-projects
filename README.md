@@ -43,6 +43,16 @@ Maximum tokens per request: 7000
 
 Current setting: 3000 tokens (configurable)
 
+**Output Excel File Format**
+
+Sr No.: Sequential numbering
+
+Key: Extracted field name
+
+Value: Extracted data (with proper date formatting)
+
+Comments: Contextual information from source
+
 **Acknowledgments**
 
 Built with Groq AI
