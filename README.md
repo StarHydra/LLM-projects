@@ -54,6 +54,7 @@ Value: Extracted data (with proper date formatting)
 Comments: Contextual information from source
 
 **Hosting**
+
 Hosting done on Streamlit cloud -
 https://hostingpdfextrac.streamlit.app
 
