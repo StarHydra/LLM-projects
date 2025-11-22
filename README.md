@@ -26,7 +26,9 @@ jupyter-Latest -Run Jupyter notebooks
 
 streamlit-1.29.0 -For streamlit app
 
-Since I have run this code in Google Colab, I did the following to hide my GROQ_API_KEY- 
+
+
+**Since I have run this code in Google Colab, I did the following to hide my GROQ_API_KEY**- 
 
 Open your notebook in Google Colab
 
@@ -36,12 +38,16 @@ Add a new secret named GROQ_API_KEY
 
 Paste your Groq API key
 
+
+
 **Rate Limits**
 Groq API free tier limitations:
 
 Maximum tokens per request: 7000
 
 Current setting: 3000 tokens (configurable)
+
+
 
 **Output Excel File Format**
 
@@ -52,6 +58,8 @@ Key: Extracted field name
 Value: Extracted data (with proper date formatting)
 
 Comments: Contextual information from source
+
+
 
 **Hosting**
 
